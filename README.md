@@ -75,7 +75,7 @@ DQ = 0,0556 · C1 = 1 · C2 = 1 · Uzlaşık çözüm: **Almanya (A7)**
 
 Bu programı kullanırsanız lütfen şu şekilde atıf yapın:
 
-> Atalay, Ö. (2026). *VIKOR-MATLAB: Excel tabanlı VIKOR çözüm programı* (Sürüm 1.0) [Bilgisayar yazılımı]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Atalay, Ö. (2026). *VIKOR-MATLAB: Excel tabanlı VIKOR çözüm programı* (Sürüm 1.0) [Bilgisayar yazılımı]. Zenodo. https://doi.org/10.5281/zenodo.23438475
 
 ### Lisans
 
@@ -112,7 +112,7 @@ The results are printed to the command window and written to the **VIKOR_Ranking
 
 ### Citation
 
-> Atalay, Ö. (2026). *VIKOR-MATLAB: Excel-based VIKOR solver* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Atalay, Ö. (2026). *VIKOR-MATLAB: Excel-based VIKOR solver* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23438475
 
 ### License
 
